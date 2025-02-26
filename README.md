@@ -24,5 +24,9 @@ uses boxcollider 2D and detects whether it hits the pikachus collider at all or 
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/d5cc2066-bb6d-4c2c-ac38-fe304d2a03e0" />
 <img width="597" alt="image" src="https://github.com/user-attachments/assets/f32dc6e4-8dd1-4602-b2b4-2485620e529e" />
 
+# download the game here
+
+https://drive.google.com/drive/folders/1XPPP0P_-HPW1FWz7cYqIYP_Ltn2IWrWZ?usp=sharing
+
 
 
