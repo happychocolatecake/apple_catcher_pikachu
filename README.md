@@ -1,6 +1,6 @@
 # apple_catcher_pikachu
 
-this game is made up of a lot of different scripts in order to create a game where apples fall from the sky, and pikachu has three lives in order to catch as many apples as he can. Once three lives are gone the game is over and the player has the option to start the game again. This is possible through the use of unity's onhit events with button elements to control the screens. (alongside the gameController.cs script to actually handle restarting the values)
+this game is made up of a lot of different scripts in order to create a game where apples fall from the sky, and pikachu has three lives to catch as many apples as he can. If he lets a single apple touch the floor without him touching it he loses a life. Once three lives are gone the game is over and the player has the option to start the game again. This is possible through the use of unity's onhit events with button elements to control the screens. (alongside the gameController.cs script to actually handle restarting the values). Pikachu can be moved left to right with the use of the cursor.
 
 pikachuController.cs:
 This script handles the pikachu movement, using Input.mousePosition and transform.position to make the pikachu follow the cursor, keeping its y and z values the same and constraining it to keep the pikachu moving along the x-axis within the correct bounds.
